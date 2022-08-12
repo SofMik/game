@@ -1,0 +1,29 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+button{
+    height: 12vh;
+    width: 18vh;
+    font-family: 'Open Sans', monospace;
+}
+
+#btnRetry{
+    background-color:#5107D9;
+    width: 30vh;
+    text-decoration: none;
+    color: white;
+}
+
+#btnLess{
+    background-color: #02B0D0;
+}
+
+#btnOver{
+   background-color: #02B0D0;
+}
+
+#btnEqual{
+    background-color: #F1004D;
+}
